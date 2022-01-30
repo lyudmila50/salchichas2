@@ -1,0 +1,28 @@
+.fondo{
+    background-color: rgb(88, 219, 252);
+}
+
+h1{
+    font-family: 'Source Serif 4', sans-serif;
+    font-size: 50px;
+}
+.carousel{
+    width: 560px;
+}
+h2{
+    font-family: 'Source Serif 4', sans-serif;
+    font-size: 35px;
+}
+
+.caracteristicas{
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+}
+
+ 
+
+h4{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+  font-style: italic ;
+}
